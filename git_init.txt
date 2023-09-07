@@ -1,0 +1,9 @@
+git init
+git add .
+
+git commit -m "NAME"
+
+git push
+
+git config --global user.email "tedsteketee@live.nl"
+git config --global user.name "Tedst"
